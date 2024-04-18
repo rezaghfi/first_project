@@ -1,0 +1,5 @@
+#git remote set-url --add --push origin https://github.com/rezaghfi/frist_project.git
+#git remote set-url --add --push origin https://ganj.yaftyar.ir/gholamalitabar_r/frist_project.git
+.venv
+
+
